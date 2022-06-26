@@ -35,7 +35,7 @@ PUT    /posts/1
 PATCH  /posts/1
 DELETE /posts/1
 ```
-Pour connaitre la liste de toutes les options, je vous invite à vous rendre sur la [documentation officielle](https://www.npmjs.com/package/json-server)
+Pour connaitre la liste de toutes les options, je vous invite à vous rendre sur la [documentation officielle](https://github.com/typicode/json-server)
 
 ### Remise à zéro
 Copier coller l'intégralité de db_backup.json dans db.json
