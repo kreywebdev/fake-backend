@@ -1,4 +1,9 @@
 {
+    "whoIAm": {
+        "id": 1,
+        "name": "The master",
+        "role": "Admin"
+    },
     "utilisateurs": [
         {
             "id": 1,
